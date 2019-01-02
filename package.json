@@ -1,0 +1,21 @@
+{
+  "name": "wdio-with-cucumber",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chromedriver": "^2.45.0",
+    "cucumber": "^5.1.0",
+    "geckodriver": "^1.14.1",
+    "selenium-standalone": "^6.15.4",
+    "wdio-cucumber-framework": "^2.2.8",
+    "webdriverio": "^4.14.1"
+  }
+}
